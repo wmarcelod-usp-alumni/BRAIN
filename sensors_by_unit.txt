@@ -1,0 +1,81 @@
+Unit: km
+  Sensor: Distância para esvaziar
+  Sensor: Distância percorrida
+  Sensor: Distância percorrida (total)
+Unit: rpm
+  Sensor: RPM do motor
+  Sensor: RPM do motor x1000
+  Sensor: [MCU] GMCU Motor Speed
+  Sensor: [MCU] TMCU Motor Speed
+Unit: R$
+  Sensor: Preço do combustível usado
+  Sensor: Preço do combustível usado (total)
+Unit: hp
+  Sensor: Potência instantânea do motor (baseado no consumo de combustível)
+  Sensor: HV EV Battery Power
+  Sensor: [BMS] Pack 10s Recharge Power Limit
+  Sensor: [BMS] Pack 10s Discharge Power Limit
+  Sensor: [BMS] Pack 2s Discharge Power Limit
+  Sensor: [BMS] Pack 2s Recharge Power Limit
+Unit: L/100km
+  Sensor: Consumo médio de combustível (l/100km) 10 sec
+  Sensor: Consumo médio de combustível (l/100km)
+  Sensor: Consumo médio de combustível (l/100km) (total)
+  Sensor: Consumo instantâneo de combustível (l/100km)
+Unit: L
+  Sensor: Combustível usado
+  Sensor: Combustível usado (total)
+  Sensor: Nível de combustível (V)
+  Sensor: Espaço livre no tanque de combustível
+Unit: L/h
+  Sensor: Consumo instantâneo de combustível (l/h)
+Unit: m
+  Sensor: Altitude (GPS)
+Unit: km/h
+  Sensor: Velocidade (GPS)
+  Sensor: Velocidade média (GPS)
+  Sensor: Velocidade do veículo
+  Sensor: Velocidade média
+Unit: A
+  Sensor: Corrente do sistema de bateria híbrida / EV
+  Sensor: [BMS] Bus current
+  Sensor: [BMS] Pack discharge current limit
+  Sensor: [BMS] Pack Recharge current limit
+Unit: V
+  Sensor: Tensão do sistema de bateria híbrida / EV
+  Sensor: [ECM] Knock sensor reference Cyl.1
+  Sensor: [ECM] Knock sensor reference Cyl.2
+  Sensor: [ECM] Knock sensor reference Cyl.3
+  Sensor: [ECM] Knock sensor reference Cyl.4
+  Sensor: [BMS] Pack Voltage
+  Sensor: [BMS] Total summ of all cell voltages
+Unit: %
+  Sensor: Nível de combustível (%)
+  Sensor: Posição da borboleta de admissão
+  Sensor: [ECM] Turbocharger target opening
+  Sensor: [ECM] Turbocharger actual opening
+  Sensor: [BMS] Batt. SOC
+  Sensor: [BMS] Max cell SoC
+  Sensor: [BMS] Min cell SoC
+  Sensor: [BMS] Pack SoH
+Unit: g
+  Sensor: Aceleração
+Unit: km/kWh
+  Sensor: EV Instant Energy Consumption
+Unit: kWh/100km
+  Sensor: EV Instant Energy Consumption [kWh/100km]
+Unit: kPa
+  Sensor: Pressão absoluta do coletor de 
+admissão
+  Sensor: [ECM] Actual boost pressure
+  Sensor: [ECM] Target boost pressure
+  Sensor: [ECM] Turbocharger pre-model pressure
+  Sensor: [TPMS] Rear left tire pressure
+  Sensor: [TPMS] Rear right tire pressure
+  Sensor: [TPMS] Front right tire pressure
+  Sensor: [TPMS] Front left tire pressure
+Unit: bar
+  Sensor: Boost calculado
+Unit: mA
+  Sensor: Sensor de oxigênio 1 Banda Larga Corrente (mA)
+Unit: nan
