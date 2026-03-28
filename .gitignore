@@ -1,0 +1,30 @@
+# PlatformIO build artifacts
+.pio/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Build artifacts
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.dblite
+*.d
